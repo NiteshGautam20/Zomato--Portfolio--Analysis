@@ -48,3 +48,17 @@ Build a SQL database using Zomato data, and analyze the earning of Zomato points
 
 ## Zomato Points-to-Cash Conversion Analysis:
 Build a SQL database using Zomato data and analyze the conversion of Zomato points into cash in the Zomato wallet
+
+## METHODOLOGY:
+
+conclusion, a portfolio of Zomato SQL projects can be an excellent way to showcase your skills in data analytics and SQL. By analyzing Zomato data related to topics such as restaurant product, revenue, user behavior, competition, marketing, Zomato Gold membership, and points conversion, you can demonstrate your ability to work with large datasets and provide valuable insights to stakeholders. These projects can also help you to develop your SQL skills and to gain practical experience in data analysis.
+
+
+ ## NOTE:
+
+I have uploaded all the files, datasets, sql scripts , icons above. Feel free to use this Project's resourses for your next Project. If you like this Project give it a Star or just tell me. It'll make me feel Good :)
+
+[Go to my LinkedIn](https://www.linkedin.com/in/nitesh-gautam-2a7a87209/) 🌐
+    
+
+
