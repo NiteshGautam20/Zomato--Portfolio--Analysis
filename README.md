@@ -37,3 +37,14 @@ Lets Connect
   
     Use SQL to analyze menu data from Zomato, and identify trends in popular dishes, cuisine, and pricing. Use this data to make recommendations for optimizing menus.
     
+    
+ ##  Zomato Gold Membership Retention Analysis:
+ 
+Use SQL to analyze Zomato Gold membership retention data and identify patterns in the data. Identify which types of  product are most popular among users who retain Zomato Gold membership.
+
+ ##  Zomato Points Earning Analysis:
+ 
+Build a SQL database using Zomato data, and analyze the earning of Zomato points by users. Use SQL queries to identify patterns in the data, such as which types of users are most likely to earn points.
+
+## Zomato Points-to-Cash Conversion Analysis:
+Build a SQL database using Zomato data and analyze the conversion of Zomato points into cash in the Zomato wallet
