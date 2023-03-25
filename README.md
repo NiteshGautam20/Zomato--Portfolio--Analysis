@@ -23,3 +23,17 @@ Lets Connect
     iii) Data Processing 
     iv) Data Analysis / Bussiness Case Study Analysis.
     
+    
+  ## Zomato User Behavior Analysis:
+  
+     Build a SQL database using Zomato data, and analyze user behavior by identifying trends in searches, clicks, and sales. Use this data to make recommendations for  improving the user experience.
+     
+  ## Zomato Competition Analysis:
+  
+  Use SQL to analyze Zomato data and identify the competition for restaurants in a given location. Use this data to make recommendations for optimizing pricing and       menu offerings.
+  
+  
+  ##  Zomato Menu Analysis:
+  
+    Use SQL to analyze menu data from Zomato, and identify trends in popular dishes, cuisine, and pricing. Use this data to make recommendations for optimizing menus.
+    
