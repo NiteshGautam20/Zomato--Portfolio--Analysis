@@ -1,6 +1,7 @@
-# Zomato--Portfolio--Analysis
+# Zomato--Portfolio--Analysis 
 ![Untitled-design-20](https://user-images.githubusercontent.com/82509629/227653169-0decd6ec-68b8-44bd-b790-ade74266aeb2.png)
 
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=NiteshGautam20.Zomato--Portfolio--Analysis&left_color=red&right_color=green&left_text=HelloVisitors)
 ## LINKS: 
 
 Lets Connect
